@@ -1,6 +1,13 @@
-# HTB-documentations
-documentations of things i learned while solving different labs in Hack The Box academy
-these are a list of documentation and walkthrough of each box i solve daily in my daily challenge of solving and understanding at least one box from HTB per day.
-my htb profile at [ZeroTheFool](https://app.hackthebox.com/users/2455771)
-im just a beginner hoping to learn more and gain more expirence 
-most of these boxes are beginner class retired boxes available in htp for practise
+# HTB Documentations
+
+This repository contains documentation and walkthroughs of various labs completed on **Hack The Box (HTB) Academy**.  
+The goal is to **learn and understand at least one box per day**, improving my practical knowledge of cybersecurity and penetration testing.
+
+I am a beginner in cybersecurity, still building my foundational skills, and this repository reflects my learning journey. Most of the boxes documented here are **retired beginner-class labs** available for practice on HTB.
+
+You can view my HTB profile here: [ZeroTheFool](https://app.hackthebox.com/users/2455771)
+
+The repository includes:
+- Step-by-step walkthroughs
+- Exploit methodology explanations
+- Notes on tools, techniques, and concepts learned
